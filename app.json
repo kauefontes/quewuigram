@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "quewuigram",
+    "slug": "quewuigram",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
